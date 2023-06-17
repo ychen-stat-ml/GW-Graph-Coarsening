@@ -10,9 +10,9 @@ This work studies graph coarsening from a different perspective, developing a th
 
 The geometric approach is useful when working with a collection of graphs, such as in graph classification and regression. 
 
-In this study, we consider a graph as an element on a metric space equipped with the Gromov--Wasserstein (GW) distance. We utilize the popular weighted kernel $K$-means method, which improves existing spectrum-preserving methods. 
+In this study, we **consider a graph as an element on a metric space equipped with the Gromov--Wasserstein (GW) distance**. We utilize the popular weighted kernel $K$-means method, which improves existing spectrum-preserving methods. 
 
-Concrete details can be found in [our paper](Arxiv?).
+Concrete details can be found in [our paper](https://arxiv.org/abs/2306.08854).
 
 
 ## Installation
