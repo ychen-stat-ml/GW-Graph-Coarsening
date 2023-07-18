@@ -12,7 +12,7 @@ The geometric approach is useful when working with a collection of graphs, such 
 
 In this study, we **consider a graph as an element on a metric space equipped with the Gromov--Wasserstein (GW) distance**. We utilize the popular weighted kernel $K$-means method, which improves existing spectrum-preserving methods. 
 
-Concrete details can be found in [our paper](https://arxiv.org/abs/2306.08854).
+Concrete details can be found in [our paper](https://proceedings.mlr.press/v202/chen23ak.html).
 
 
 ## Installation
